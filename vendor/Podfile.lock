@@ -1,0 +1,70 @@
+
+PODS:
+- JSONKit (1.5pre)
+- Nimbus (0.9.3):
+  - Nimbus/AttributedLabel (= 0.9.3)
+  - Nimbus/CSS (= 0.9.3)
+  - Nimbus/Core (= 0.9.3)
+  - Nimbus/Interapp (= 0.9.3)
+  - Nimbus/Launcher (= 0.9.3)
+  - Nimbus/Models (= 0.9.3)
+  - Nimbus/NetworkControllers (= 0.9.3)
+  - Nimbus/NetworkImage (= 0.9.3)
+  - Nimbus/Operations (= 0.9.3)
+  - Nimbus/Overview (= 0.9.3)
+  - Nimbus/PagingScrollView (= 0.9.3)
+  - Nimbus/Photos (= 0.9.3)
+  - Nimbus/WebController (= 0.9.3)
+- Nimbus/AttributedLabel (0.9.3):
+  - Nimbus/Core
+- Nimbus/CSS (0.9.3):
+  - Nimbus/Core
+- Nimbus/Core (0.9.3)
+- Nimbus/Interapp (0.9.3):
+  - Nimbus/Core
+- Nimbus/Launcher (0.9.3):
+  - Nimbus/Core
+- Nimbus/Models (0.9.3):
+  - Nimbus/Core
+- Nimbus/NetworkControllers (0.9.3):
+  - Nimbus/Core
+- Nimbus/NetworkImage (0.9.3):
+  - Nimbus/Core
+- Nimbus/Operations (0.9.3):
+  - Nimbus/Core
+  - Nimbus/Operations/JSON (= 0.9.3)
+- Nimbus/Operations/JSON (0.9.3):
+  - JSONKit
+  - Nimbus/Core
+- Nimbus/Overview (0.9.3):
+  - Nimbus/Core
+- Nimbus/PagingScrollView (0.9.3):
+  - Nimbus/Core
+- Nimbus/Photos (0.9.3):
+  - Nimbus/Core
+  - Nimbus/PagingScrollView
+- Nimbus/WebController (0.9.3):
+  - Nimbus/Core
+
+DEPENDENCIES:
+- Nimbus
+
+SPEC CHECKSUMS:
+  JSONKit: a01a22c75f27eae76b4badd55a91c20fe6e86477
+  Nimbus: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/AttributedLabel: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/CSS: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Core: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Interapp: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Launcher: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Models: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/NetworkControllers: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/NetworkImage: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Operations: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Operations/JSON: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Overview: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/PagingScrollView: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Photos: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/WebController: 6a35688977607cda01be9027699a9e64bd08fb99
+
+COCOAPODS: 0.15.2
